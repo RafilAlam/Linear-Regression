@@ -1,6 +1,6 @@
 # 📈 Linear Regression with PyTorch  
 🧠 **Predicting Continuous Values with Neural Networks**  
-> A foundational machine learning model built using **PyTorch**, implementing and training a simple linear regression model `f(x) = w * x + b`. This project demonstrates the use of custom model classes, forward propagation, loss computation, and weight updates with stochastic gradient descent — all key components of supervised learning.
+> A foundational machine learning model built using **PyTorch**, implementing and training a simple linear regression model `f(x) = w * x + b`. This project demonstrates the use of custom model classes, forward propagation, loss computation, and weight updates with stochastic gradient descent, all key components of supervised learning.
 
 ---
 
